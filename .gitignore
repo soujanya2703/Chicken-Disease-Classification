@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+Coccidiosis/ 
+Healthy/ 
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +209,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+>>>>>>> fa2f40ad8c3aacab23ab3126a97854cf1d97dcd1
